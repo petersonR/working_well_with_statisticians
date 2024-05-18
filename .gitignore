@@ -1,0 +1,12 @@
+*Dissemination/
+*.Rproj.user/
+*archive/
+*references/
+*misc/
+Reports/Figures_*
+.Rproj.user
+DataRaw/ACTStat_ Collaborator Phenotyping Post-Session Survey(1-83).xlsx
+DataRaw/working_well_w_statisticians_survey.xlsx
+biographies.docx
+Reports/figs/*
+*.DS_Store
